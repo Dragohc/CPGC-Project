@@ -27,11 +27,3 @@ The remaining components, including the full training pipeline, dataset preproce
 
 If you find this work useful, please consider citing our paper once it becomes available.
 Citation information will be updated upon publication.
-
----
-
-If you want, I can also help you:
-
-* Add a **method overview diagram caption** for the README
-* Write a **minimal usage example** (pseudo-code level, safe before publication)
-* Prepare a **“Coming Soon” roadmap section** that looks professional and reviewer-safe
